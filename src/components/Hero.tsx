@@ -40,7 +40,7 @@ const Hero: React.FC = () => {
               <div className="absolute -inset-5 border border-coffee-200 translate-x-6 translate-y-6 -z-10 group-hover:translate-x-3 group-hover:translate-y-3 transition-transform duration-1000"></div>
               
               <img 
-                src="/public/rk.jpeg" 
+                src="/rk.jpeg" 
                 alt="Rickelmy Rodrigues - Retrato Autoral" 
                 className="w-full h-full object-cover shadow-xl grayscale-[0.05] group-hover:grayscale-0 transition-all duration-1000 brightness-[0.98] group-hover:brightness-100"
               />

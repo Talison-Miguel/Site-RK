@@ -27,7 +27,7 @@ const About: React.FC = () => {
         {/* Image 2: Clareza */}
         <div className="relative group">
           <img 
-            src="/public/rk2.jpg" 
+            src="/rk2.jpg" 
             alt="Clareza do Horizonte" 
             className="shadow-xl w-full aspect-[4/5] object-cover grayscale"
           />
